@@ -2,7 +2,7 @@
   "name": "bitmap-transform-ckperez",
   "version": "1.0.0",
   "description": "401JS bitmap transform project",
-  "main": "transformer.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
